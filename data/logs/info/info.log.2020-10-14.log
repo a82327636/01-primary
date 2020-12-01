@@ -1,0 +1,34 @@
+2020-10-14 17:47:04.773 [main] INFO  com.abc.Application - Starting Application on 研发中心-郑文捷 with PID 14048 (E:\idea_projects\spring_boot\01-primary\target\classes started by Administrator in E:\idea_projects\spring_boot\01-primary)
+2020-10-14 17:47:04.776 [main] INFO  com.abc.Application - The following profiles are active: test
+2020-10-14 17:47:06.597 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-10-14 17:47:06.601 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-14 17:47:06.636 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17ms. Found 0 repository interfaces.
+2020-10-14 17:47:07.143 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$961c2c36] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-14 17:47:07.563 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2020-10-14 17:47:07.583 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2020-10-14 17:47:07.597 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-10-14 17:47:07.598 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-10-14 17:47:07.920 [main] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-10-14 17:47:07.925 [main] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/test] - Initializing Spring embedded WebApplicationContext
+2020-10-14 17:47:07.926 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2912 ms
+2020-10-14 17:47:08.900 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-14 17:47:10.390 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-10-14 17:47:10.391 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-10-14 17:47:10.392 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-10-14 17:47:10.392 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-10-14 17:47:10.519 [main] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-10-14 17:47:10.520 [main] INFO  o.a.c.c.ContainerBase.[Tomcat-1].[localhost].[/zz] - Initializing Spring embedded WebApplicationContext
+2020-10-14 17:47:10.520 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 240 ms
+2020-10-14 17:47:10.547 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 13 endpoint(s) beneath base path '/actuator'
+2020-10-14 17:47:10.628 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-10-14 17:47:10.678 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path '/zz'
+2020-10-14 17:47:10.694 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2020-10-14 17:47:10.704 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '/test'
+2020-10-14 17:47:10.705 [main] INFO  com.abc.Application - Started Application in 7.58 seconds (JVM running for 9.061)
+2020-10-14 17:47:11.008 [RMI TCP Connection(4)-127.0.0.1] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/test] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-10-14 17:47:11.009 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-10-14 17:47:11.019 [RMI TCP Connection(4)-127.0.0.1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2020-10-14 17:47:11.041 [RMI TCP Connection(2)-127.0.0.1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-10-14 17:47:11.448 [RMI TCP Connection(2)-127.0.0.1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2020-10-14 17:47:11.450 [RMI TCP Connection(2)-127.0.0.1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2020-10-14 17:47:31.967 [http-nio-8082-exec-4] INFO  com.abc.controller.StudentDbController - 注册了!

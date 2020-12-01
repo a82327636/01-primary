@@ -1,0 +1,85 @@
+2020-10-15 18:33:40.500 [main] INFO  com.abc.CacheTest - Starting CacheTest on 研发中心-郑文捷 with PID 21092 (started by Administrator in E:\idea_projects\spring_boot\01-primary)
+2020-10-15 18:33:40.503 [main] INFO  com.abc.CacheTest - The following profiles are active: test
+2020-10-15 18:33:44.072 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-10-15 18:33:44.123 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-15 18:33:44.430 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 22ms. Found 0 repository interfaces.
+2020-10-15 18:33:45.542 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1cbd1806] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-15 18:33:50.847 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:33:53.624 [main] INFO  com.abc.CacheTest - Started CacheTest in 14.61 seconds (JVM running for 20.009)
+2020-10-15 18:33:54.634 [Thread-2] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:35:16.934 [main] INFO  com.abc.CacheTest - Starting CacheTest on 研发中心-郑文捷 with PID 23044 (started by Administrator in E:\idea_projects\spring_boot\01-primary)
+2020-10-15 18:35:16.936 [main] INFO  com.abc.CacheTest - The following profiles are active: test
+2020-10-15 18:35:18.795 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-10-15 18:35:18.799 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-15 18:35:18.839 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19ms. Found 0 repository interfaces.
+2020-10-15 18:35:19.645 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$3795d1bb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-15 18:35:23.416 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:35:26.300 [main] INFO  com.abc.CacheTest - Started CacheTest in 10.694 seconds (JVM running for 11.945)
+2020-10-15 18:35:26.769 [Thread-2] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:38:50.696 [main] INFO  com.abc.CacheTest - Starting CacheTest on 研发中心-郑文捷 with PID 19768 (started by Administrator in E:\idea_projects\spring_boot\01-primary)
+2020-10-15 18:38:50.698 [main] INFO  com.abc.CacheTest - The following profiles are active: test
+2020-10-15 18:38:53.433 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-10-15 18:38:53.442 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-15 18:38:53.490 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 22ms. Found 0 repository interfaces.
+2020-10-15 18:38:54.772 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$fa220e66] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-15 18:38:55.074 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.abc.configuration.JedisConfig.host
+2020-10-15 18:38:55.079 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.abc.configuration.JedisConfig.port
+2020-10-15 18:38:55.079 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.abc.configuration.JedisConfig.password
+2020-10-15 18:39:01.656 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:39:05.139 [main] INFO  com.abc.CacheTest - Started CacheTest in 17.957 seconds (JVM running for 20.302)
+2020-10-15 18:39:06.608 [Thread-2] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:40:01.013 [main] INFO  com.abc.CacheTest - Starting CacheTest on 研发中心-郑文捷 with PID 21308 (started by Administrator in E:\idea_projects\spring_boot\01-primary)
+2020-10-15 18:40:01.019 [main] INFO  com.abc.CacheTest - The following profiles are active: test
+2020-10-15 18:40:03.510 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-10-15 18:40:03.516 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-15 18:40:03.625 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 77ms. Found 0 repository interfaces.
+2020-10-15 18:40:05.113 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$85e16ce0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-15 18:40:26.936 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.abc.configuration.JedisConfig.host
+2020-10-15 18:40:26.936 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static int com.abc.configuration.JedisConfig.port
+2020-10-15 18:40:26.936 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static java.lang.String com.abc.configuration.JedisConfig.password
+2020-10-15 18:40:29.963 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:48:09.948 [main] INFO  com.abc.CacheTest - Starting CacheTest on 研发中心-郑文捷 with PID 19088 (started by Administrator in E:\idea_projects\spring_boot\01-primary)
+2020-10-15 18:48:09.952 [main] INFO  com.abc.CacheTest - The following profiles are active: test
+2020-10-15 18:48:14.522 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-10-15 18:48:14.529 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-15 18:48:14.617 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 52ms. Found 0 repository interfaces.
+2020-10-15 18:48:16.209 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$eca9cbe] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-15 18:48:20.744 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:48:23.364 [main] INFO  com.abc.CacheTest - Started CacheTest in 16.713 seconds (JVM running for 19.61)
+2020-10-15 18:48:24.022 [Thread-2] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:48:45.660 [main] INFO  com.abc.CacheTest - Starting CacheTest on 研发中心-郑文捷 with PID 22820 (started by Administrator in E:\idea_projects\spring_boot\01-primary)
+2020-10-15 18:48:45.661 [main] INFO  com.abc.CacheTest - The following profiles are active: test
+2020-10-15 18:48:50.093 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-10-15 18:48:50.101 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-15 18:48:50.195 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 47ms. Found 0 repository interfaces.
+2020-10-15 18:48:52.167 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ed174fa0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-15 18:48:57.224 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:49:01.847 [main] INFO  com.abc.CacheTest - Started CacheTest in 18.251 seconds (JVM running for 20.691)
+2020-10-15 18:49:02.424 [Thread-2] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:49:29.106 [main] INFO  com.abc.CacheTest - Starting CacheTest on 研发中心-郑文捷 with PID 22948 (started by Administrator in E:\idea_projects\spring_boot\01-primary)
+2020-10-15 18:49:29.108 [main] INFO  com.abc.CacheTest - The following profiles are active: test
+2020-10-15 18:49:32.342 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-10-15 18:49:32.348 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-15 18:49:32.406 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 32ms. Found 0 repository interfaces.
+2020-10-15 18:49:34.071 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$95b3628a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-15 18:49:42.259 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:49:46.110 [main] INFO  com.abc.CacheTest - Started CacheTest in 19.548 seconds (JVM running for 23.025)
+2020-10-15 18:49:47.018 [Thread-2] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:50:43.709 [main] INFO  com.abc.CacheTest - Starting CacheTest on 研发中心-郑文捷 with PID 21072 (started by Administrator in E:\idea_projects\spring_boot\01-primary)
+2020-10-15 18:50:43.718 [main] INFO  com.abc.CacheTest - The following profiles are active: test
+2020-10-15 18:50:49.855 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-10-15 18:50:49.861 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-15 18:50:49.973 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 77ms. Found 0 repository interfaces.
+2020-10-15 18:50:52.215 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$dc93] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-15 18:50:57.577 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:51:01.758 [main] INFO  com.abc.CacheTest - Started CacheTest in 20.212 seconds (JVM running for 23.519)
+2020-10-15 18:51:02.302 [Thread-2] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:54:56.182 [main] INFO  com.abc.CacheTest - Starting CacheTest on 研发中心-郑文捷 with PID 21884 (started by Administrator in E:\idea_projects\spring_boot\01-primary)
+2020-10-15 18:54:56.187 [main] INFO  com.abc.CacheTest - The following profiles are active: test
+2020-10-15 18:54:58.747 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-10-15 18:54:58.753 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-15 18:54:58.863 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 38ms. Found 0 repository interfaces.
+2020-10-15 18:54:59.948 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$976638a3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-15 18:55:05.768 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-15 18:55:08.729 [main] INFO  com.abc.CacheTest - Started CacheTest in 16.387 seconds (JVM running for 19.059)
+2020-10-15 18:55:09.223 [Thread-2] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

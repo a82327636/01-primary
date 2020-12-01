@@ -1,0 +1,56 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /test
+
+
+mybatis:
+  # 注册映射文件
+  mapper-locations: classpath:com/abc/dao/*.xml
+  # 注册实体类别名
+  type-aliases-package: com.abc.bean
+
+
+logging:
+  config: classpath:config/logback-spring.xml
+
+jedis:
+  args:
+    host: 192.168.1.15
+    port: 6380
+    password:
+
+
+# 注册数据源
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.1.10:3306/test?useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: 123456
+  #spring_redis redistemplate 可以与spring_cache配合使用
+  redis:
+    # 配置单机版Redis
+    host: 192.168.1.15
+    port: 6380
+    password:
+
+      # 配置Redis高可用集群
+      # sentinel:
+    # master: mymaster
+    # nodes: sentinelOS1:26379,sentinelOS2:26379,sentinelOS3:26379
+
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"   # 开启所有监控终端
+        exclude: env,info
+        base-path: /base   # 指定监控器的基本路径，一般不改，均采用默认路径/actuator
+  server:
+    port: 8888   # 指定监控器的端口号
+    servlet:
+      context-path: /zz  # 指定监控器的上下文路径
